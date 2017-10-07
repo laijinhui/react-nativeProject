@@ -6,9 +6,7 @@
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
 | <img src="./screenshot/91495635929_.pic.jpg" width="280"/> | <img src="./screenshot/81495635929_.pic.jpg" width="280"/> | <img src="./screenshot/111495635930_.pic.jpg" width="280"/> |
 
-## Inspiration
 
-作为一个android开发者，一直对ReactNative开发有一定的兴趣，趁着刚好有时间，学习了一下reactnative开发。一般在学习一个平台的应用开发时，总是习惯开发一个天气应用，于是便有了这个ReactWeather应用。该应用只是简单地实现了天气展示功能，并没有做太多的其他功能，有些功能还在开发当中，有时间会继续开发。
 
 ## Framework
 
@@ -22,12 +20,7 @@
 * 滑动删除使用了[react-native-swipeout](https://github.com/dancormier/react-native-swipeout),这是一个在RN平台上实现比较好的滑动删除库
 * 默认使用了RN自己实现的定位功能
 
-## API
 
-* 天气api使用了和风天气提供的免费接口
-* 壁纸采用了[bing壁纸](https://github.com/xCss/bing)，这是一个哥们自己实现的bing壁纸接口，后续会完善这个接口，让app能够显示更多的壁纸
-
-## Progress
 
 ### Finished
 
@@ -46,25 +39,18 @@
 - [ ] 实现语音播报天气和图表显示天气信息
 - [ ] 现语音播报天气
 - [ ] 实现分享天气功能以及推送功能
-- [ ] 暂时还没想粗来,走一步看一步吧。。。
+
 
 ## Clone & install
 
-- Clone this repo `git clone git@github.com:nickming/ReactWeather.git`
-- `cd ReactWeather`
+- Clone this repo `git clone https://github.com/laijinhui/react-nativeProject.git`
+- `cd react-nativeProject`
 - run `npm install`
 
 ## IOS & ANDROID
 
 在根目录执行react-native run-ios 或者react-native run-android
 
-## License
-
-Released under the [MIT License](http://opensource.org/licenses/MIT).
-
-## Feedback
-
-欢迎反馈，欢迎issue和star
 
 
 
